@@ -1,15 +1,15 @@
-plugins {
+lieplugins {
     alias(libs.plugins.androidApplication)
     alias(libs.plugins.jetbrainsKotlinAndroid)
     id("com.google.android.libraries.mapsplatform.secrets-gradle-plugin")
 }
 
 android {
-    namespace = "com.example.ecocycle"
+    namespace = "com.example.reciclefacil"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.ecocycle"
+        applicationId = "com.example.reciclefacil"
         minSdk = 26
         targetSdk = 34
         versionCode = 1
