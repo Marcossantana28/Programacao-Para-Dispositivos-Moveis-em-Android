@@ -1,4 +1,4 @@
-package com.example.ecocycle.adapters
+package com.example.reciclefacil.adapters
 
 import android.view.LayoutInflater
 import android.view.View
