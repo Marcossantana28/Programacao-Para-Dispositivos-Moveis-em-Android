@@ -1,4 +1,4 @@
-package com.example.ecocycle
+package com.example.reciclefacil
 
 import android.content.Intent
 import android.graphics.Color
