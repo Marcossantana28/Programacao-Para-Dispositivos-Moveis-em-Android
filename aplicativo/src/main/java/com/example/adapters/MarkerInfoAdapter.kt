@@ -4,8 +4,8 @@ import android.content.Context
 import android.view.LayoutInflater
 import android.view.View
 import android.widget.TextView
-import com.example.ecocycle.Place
-import com.example.ecocycle.R
+import com.example.reciclefacil.Place
+import com.example.reciclefacil.R
 import com.google.android.gms.maps.GoogleMap
 import com.google.android.gms.maps.model.Marker
 
