@@ -1,4 +1,4 @@
-package com.example.ecocycle
+package com.example.reciclefacil
 
 import android.content.ContentValues
 import android.content.Intent
