@@ -20,6 +20,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "EcoCycle"
+rootProject.name = "reciclefacil"
 include(":app")
  
