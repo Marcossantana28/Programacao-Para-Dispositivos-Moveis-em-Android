@@ -1,4 +1,4 @@
-package com.example.ecocycle
+package com.example.reciclefacil
 
 import android.app.Activity
 import android.os.Bundle
