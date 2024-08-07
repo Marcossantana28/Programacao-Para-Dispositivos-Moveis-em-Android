@@ -1,4 +1,4 @@
-package com.example.ecocycle.util
+package com.example.reciclefacil.util
 
 import android.content.ContentValues
 import android.content.Context
