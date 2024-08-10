@@ -1,3 +1,7 @@
+
+
+![App imagem](https://github.com/user-attachments/assets/8a0e0c8f-e65e-455e-9b95-feef9eb1af5c)
+
 Projeto de Extensão: Programação Para Dispositivos Móveis em Android
 
 RecicleFácil é um aplicativo Android desenvolvido para mapear e compartilhar pontos de coleta seletiva, abordando uma importante questão social. O projeto foi criado utilizando a linguagem Kotlin no ambiente Android Studio, seguindo todas as práticas ensinadas durante as aulas laboratoriais.
